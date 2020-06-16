@@ -1,1 +1,1 @@
-# reservoirGbm
+Code for Beaulieu, J. J., S. Waldo, A. D. Balz, W. Barnett, M. C. Platz, and K. M. White. In review. Modeling methane and carbon dioxide emission rates from reservoirs using boosted regression trees. Journal of Geophysical Research-Biogeosciences.
