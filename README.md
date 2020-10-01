@@ -1,6 +1,6 @@
 Citation for paper in review (6/16/2020):
 
-Beaulieu, J. J., S. Waldo, A. D. Balz, W. Barnett, M. C. Platz, and K. M. White. In review. Methane and carbon dioxide emissions from reservoirs: controls and upscaling. Journal of Geophysical Research-Biogeosciences.
+Beaulieu, J. J., S. Waldo, A. D. Balz, W. Barnett, M. C. Platz, and K. M. White. 2020. Methane and carbon dioxide emissions from reservoirs: controls and upscaling. Journal of Geophysical Research-Biogeosciences.
 
 This repository contains all the material needed to reproduce the boosted regression trees (BRTs) presented in Beaulieu et al (In review).  Scripts should be run in the order detailed in masterScriptVM.R.  See masterLibrary.R for the version of R and associated packages used for the manuscript.
 
